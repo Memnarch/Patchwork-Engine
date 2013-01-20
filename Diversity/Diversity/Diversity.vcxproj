@@ -84,6 +84,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Engine.h" />
+    <ClInclude Include="NullRenderer.h" />
+    <ClInclude Include="Renderer.h" />
     <ClInclude Include="TestRuntime.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

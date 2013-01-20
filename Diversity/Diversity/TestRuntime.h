@@ -1,3 +1,5 @@
+#ifndef TestRuntime_h
+#define TestRuntime_h
 #include "Engine.h"
 
 class CTestRuntime : public CEngine
@@ -11,3 +13,5 @@ protected:
 public:
 
 };
+
+#endif
