@@ -4,7 +4,7 @@ However, making changes to the source without my permission and publishing them 
 Reusing the sourcecode or publishing it anywhere else in anyway is not allowed either.
 
 You may only share the link to my github repository:
-https://github.com/Memnarch/Diversity-Engine
+https://github.com/Memnarch/Patchwork-Engine
 
 
 
